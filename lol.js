@@ -1,5 +1,5 @@
 const Discord = require('discord.js')
-var fdsgjdfklghjdfklghdfl = "OTM3MzkxOTgxMTk2MzY5OTUw.YfbEUA.maIwTkHUBUrhQ7p8iYdRyRsIv1I"
+var fdsgjdfklghjdfklghdfl = "OTM3MzkxOTgxMTk2MzY5OTUw.YfbEUA.j3Mi2IHErF3W_uam0sjYfoifDz4"
 
 const client = new Discord.Client({
     intents: [
